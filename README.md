@@ -60,11 +60,7 @@ My interests revolve around **Natural Language Processing**, **Computer Vision**
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohanned-mahmoud&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanned-mahmoud&theme=tokyonight" />
-</p>
+
 
 ---
 
