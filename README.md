@@ -53,7 +53,7 @@ Beyond the code, I bring a unique perspective to my work: I am a former Taekwond
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanned-Mahmoud&theme=tokyonight&hide_border=false" alt="Mohanned's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanned-Mahmoud&theme=tokyonight&hide_border=false&v=1" alt="Mohanned's GitHub Streak" />
 </div>
 
 ---
